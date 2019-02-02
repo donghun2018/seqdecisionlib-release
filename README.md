@@ -31,16 +31,31 @@ To test drive, run the driver script.
 
 ### Blood Management
 
+[Link](/BloodManagement)
+
 ### Clinical Trials
+
+[Link](/ClinicalTrials)
 
 ### Energy Storage
 
+[Link](/EnergyStorage_I)
+
 ### Medical Decision - Diabetes
 
-### Stochastic Shortest Path
+[Link](/MedicalDecisionDiabetes)
+
+### Stochastic Shortest Path - Static
+
+[Link](/StochasticShortestPath_Static)
+
+### Stochastic Shortest Path - Dynamic
+
+[Link](/StochasticShortestPath_Dynamic)
 
 ### Two Newsvendors
 
+[Link](/TwoNewsvendor)
 
 
 ## Contributors
