@@ -16,9 +16,11 @@ Requires Python 3 and the following packages:
 
 The following problem models are implemented in the subdirectories.
 Each implementation contains three components:
+
 - model: implements simulator based on how the problem is modeled
 - policy: implements decision-making policy functions
 - driver: runs the simulator and the policy
+
 To test drive, run the driver script.
 
 ### Adaptive Market Planning
